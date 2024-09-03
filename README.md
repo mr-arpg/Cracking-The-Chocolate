@@ -1,5 +1,5 @@
 # Cracking-The-Chocolate
-My Bsc Final Work
+My BSc Final Work
 
 Solid Edge simulations in the folder "Simulações"
 
