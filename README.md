@@ -1,12 +1,12 @@
 # Chocolate Series 🍫
 
 It's a weird coincidence, but I keep finding myself working on chocolate-related projects! I guess it's the universe trying to tell me that chocolate is the best way to get people excited about science 😎
+\
 Below, some ideas:
 
 ## Measuring Light Velocity with Chocolate  
 In this experiment, I measured the speed of light using chocolate! You can watch a detailed explanation in this [video](https://www.youtube.com/watch?v=IrcOSE6kXLQ).  
 
-![Chocolate Experiment Image](https://github.com/mr-arpg/Cracking-The-Chocolate/assets/71014048/a6ea58c9-18ae-4802-a0b3-dfdf7b652e81)
 
 ---
 
@@ -17,8 +17,8 @@ Using the **TPC_Nano_4** (PDF: [TPC_Nano_4.pdf](./TPC_Nano_4.pdf)), I printed a 
 2. **Experiment Setup**: Used a laser to diffract light through the chocolate, showcasing the resulting patterns.  
 
 <div style="display: flex;">
-    <img src="img1.png" alt="Diffraction on Chocolate 1" width="400" />
-    <img src="img2.png" alt="Diffraction on Chocolate 2" width="400" />
+    <img src="img1.jpg" alt="Diffraction on Chocolate 1" width="400" />
+    <img src="img2.jpg" alt="Diffraction on Chocolate 2" width="400" />
 </div>
 
 ### Outcome  
@@ -27,6 +27,9 @@ This process beautifully demonstrated the diffraction phenomenon, adding a creat
 ---
 
 ## My BSc Final Work  
+Consisted in studying chocolate breaking, namely the method to use less force to break it.
+
+![Chocolate Experiment Image](https://github.com/mr-arpg/Cracking-The-Chocolate/assets/71014048/a6ea58c9-18ae-4802-a0b3-dfdf7b652e81)
 
 ### Solid Edge Simulations  
 Simulations are stored in the folder **"Simulações"**.  
