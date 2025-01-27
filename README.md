@@ -27,7 +27,7 @@ This process beautifully demonstrated the diffraction phenomenon, adding a creat
 ---
 
 ## My BSc Final Work  
-Consisted in studying chocolate breaking, namely the method to use less force to break it.
+Consisted in studying the method that uses less force to break chocolate.
 
 ![Chocolate Experiment Image](https://github.com/mr-arpg/Cracking-The-Chocolate/assets/71014048/a6ea58c9-18ae-4802-a0b3-dfdf7b652e81)
 
